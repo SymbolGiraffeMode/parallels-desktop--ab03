@@ -1,4 +1,4 @@
-
+Enhance Parallels Desktop for macOS with instant Parallels Desktop for macOS Plugin | cross-platform-support + 3D-graphics-support, the #1 plugin. Includes cross-platform-support
 
 
 
